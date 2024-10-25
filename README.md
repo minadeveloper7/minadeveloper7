@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate **Fullstack Developer** with experience in **Java**, **JavaScript**, **PHP**, **Python**, and **C**. Currently, I work as a **Backend Developer at amoCRM**.
+I'm a passionate **Fullstack Developer** with experience in **Java**, **JavaScript**, **PHP**, **Python**, and **C**. 
 
 ### 🛠️ Tech Stack
 
