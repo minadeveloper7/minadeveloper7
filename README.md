@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**minadeveloper7/minadeveloper7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Fullstack Developer** with experience in **Java**, **JavaScript**, **PHP**, **Python**, and **C**. Currently, I work as a **Backend Developer at amoCRM**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, JavaScript, PHP, Python, C
+- **Backend**: Node.js, Django, Laravel, Spring Boot, Symfony and Laminas
+- **Frontend**: React, Vue.js, HTML/CSS, Bootstrap
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms**: Docker, Git, AWS, Linux, Kubernetes
+
+### 📈 Currently Learning
+- Advanced DevOps practices
+- Microservices and distributed systems
+
+### 🚀 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minadeveloper7)
+
+---
+
+_Simplifying complex problems with clean code. Always up for a challenge!_
